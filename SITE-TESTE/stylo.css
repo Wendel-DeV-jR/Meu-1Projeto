@@ -1,0 +1,20 @@
+  {
+    font-size: 100%;
+    baground: radialGradient;
+  }
+  p {
+    color: blue;
+    width: 500px;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+  }
+  html {font-size: 20px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Open Sans", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
